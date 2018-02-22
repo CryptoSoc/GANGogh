@@ -1,6 +1,12 @@
 # GANGogh
 
+> Our primary motivation in studying GANs this semester was to try to apply a GAN-derived model to the generation of novel art. Much of the work in deep learning that has concerned itself with art generation has focused on style, and specifically the style of particular art pieces.
+
+> By building off of the GAN model, we hoped to build a deep-net that was capable of not only learning a distribution of the style and content components of many different pieces of art, but was also able to novelly combine these components to create new pieces of art. The task of novel content generation is much more difficult than applying the style from one particular piece of art to the content of another.
+
 Note: Code heavily inspired and built off of the improved wasserstein GAN training code available and found at: https://github.com/igul222/improved_wgan_training
+
+You can read more about the project [here](https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1)
 
 ## Usage:
 
